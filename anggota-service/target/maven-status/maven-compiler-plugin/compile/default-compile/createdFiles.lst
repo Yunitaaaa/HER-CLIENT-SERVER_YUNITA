@@ -1,0 +1,5 @@
+com\Yunita\anggota\service\controller\AnggotaController.class
+com\Yunita\anggota\service\AnggotaServiceApplication.class
+com\Yunita\anggota\service\entity\Anggota.class
+com\Yunita\anggota\service\repository\AnggotaRepository.class
+com\Yunita\anggota\service\service\AnggotaService.class
