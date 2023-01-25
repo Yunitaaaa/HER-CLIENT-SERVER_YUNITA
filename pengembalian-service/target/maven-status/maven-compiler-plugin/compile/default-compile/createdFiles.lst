@@ -1,0 +1,10 @@
+com\yunita\pengembalian\service\VO\Anggota.class
+com\yunita\pengembalian\service\controller\PengembalianController.class
+com\yunita\pengembalian\service\VO\ResponseTemplateVO.class
+com\yunita\pengembalian\service\PengembalianServicesApplication.class
+com\yunita\pengembalian\service\VO\Peminjaman.class
+com\yunita\pengembalian\service\entity\Pengembalian.class
+com\yunita\pengembalian\service\repository\PengembalianRepository.class
+com\yunita\pengembalian\service\VO\ResponseTemplateVOPinjam.class
+com\yunita\pengembalian\service\VO\Buku.class
+com\yunita\pengembalian\service\service\PengembalianService.class
