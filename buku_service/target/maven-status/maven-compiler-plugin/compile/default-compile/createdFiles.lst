@@ -1,0 +1,5 @@
+com\yunita\buku\service\controller\BukuController.class
+com\yunita\buku\service\BukuServiceApplication.class
+com\yunita\buku\service\entity\Buku.class
+com\yunita\buku\service\repository\BukuRepository.class
+com\yunita\buku\service\service\BukuService.class
