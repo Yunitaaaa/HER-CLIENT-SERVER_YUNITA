@@ -1,0 +1,7 @@
+com\Yunita\penjualan\vo\Pelanggan.class
+com\Yunita\penjualan\service\service\PenjualanService.class
+com\Yunita\penjualan\entity\Penjualan.class
+com\Yunita\penjualan\repository\PenjualanRepository.class
+com\Yunita\penjualan\service\PenjualanServiceApplication.class
+com\Yunita\penjualan\controller\PenjualanController.class
+com\Yunita\penjualan\vo\ResponseTemplateVO.class
